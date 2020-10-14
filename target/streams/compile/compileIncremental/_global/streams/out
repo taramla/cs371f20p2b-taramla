@@ -1,0 +1,71 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/common.scala, /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/LineCountImperativeModular.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/Users/tarala/IdeaProjects/iterators-scala/target/scala-2.13/classes/imperative/modular/OutputToStdOut.class, /Users/tarala/IdeaProjects/iterators-scala/target/scala-2.13/classes/imperative/modular/movingStats$.class, /Users/tarala/IdeaProjects/iterators-scala/target/scala-2.13/classes/imperative/modular/Main.class, /Users/tarala/IdeaProjects/iterators-scala/target/scala-2.13/classes/imperative/modular/Task.class, /Users/tarala/IdeaProjects/iterators-scala/target/scala-2.13/classes/imperative/modular/movingStatsModular$.class, /Users/tarala/IdeaProjects/iterators-scala/target/scala-2.13/classes/imperative/modular/movingStats.class, /Users/tarala/IdeaProjects/iterators-scala/target/scala-2.13/classes/imperative/modular/Output.class, /Users/tarala/IdeaProjects/iterators-scala/target/scala-2.13/classes/imperative/modular/movingStatsModular.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(imperative.modular.Main, imperative.modular.Output, imperative.modular.movingStatsModular, imperative.modular.Task, imperative.modular.movingStats, imperative.modular.OutputToStdOut)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/common.scala, /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/LineCountImperativeModular.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(imperative.modular.Main, imperative.modular.Output, imperative.modular.movingStatsModular, imperative.modular.Task, imperative.modular.movingStats, imperative.modular.OutputToStdOut)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/common.scala, /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/LineCountImperativeModular.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: imperative.modular.Main, imperative.modular.Output, imperative.modular.movingStatsModular, imperative.modular.Task, imperative.modular.movingStats, imperative.modular.OutputToStdOut[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding imperative.modular.movingStatsModular by imperative.modular.Main[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding imperative.modular.CumulativeLengthImperativeModular by imperative.modular.Main[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding imperative.modular.movingStats by imperative.modular.Output[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding imperative.modular.OutputToStdOut by imperative.modular.Output[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding imperative.modular.AccumulateLength by imperative.modular.Output[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources to /Users/tarala/IdeaProjects/iterators-scala/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.3[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 245ebe09 for Scala compiler version 2.13.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-feature[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-unchecked[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/tarala/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/tarala/IdeaProjects/iterators-scala/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.805355248 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from imperative.modular.movingStats...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: imperative.modular.movingStats[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding imperative.modular.movingStatsModular by imperative.modular.movingStats[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(imperative.modular.movingStats, imperative.modular.movingStatsModular)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(imperative.modular.movingStats,ModifiedNames(changes = UsedName(sb,[Default]), UsedName(finalize,[Default]))) invalidates 2 classes due to The imperative.modular.movingStats has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(sb,[Default]), UsedName(finalize,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(imperative.modular.movingStats, imperative.modular.movingStatsModular)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from imperative.modular.OutputMovingStats...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: imperative.modular.OutputMovingStats[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncluding imperative.modular.movingStatsModular by imperative.modular.OutputMovingStats[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(imperative.modular.OutputMovingStats, imperative.modular.movingStatsModular)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(imperative.modular.OutputMovingStats,ModifiedNames(changes = UsedName(asInstanceOf,[Default]), UsedName(doOutput,[Default]), UsedName(finalize,[Default]), UsedName(OutputMovingStats,[Default]), UsedName(synchronized,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName($init$,[Default]), UsedName(wait,[Default]), UsedName(==,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]), UsedName(##,[Default]), UsedName(hashCode,[Default]), UsedName(toString,[Default]), UsedName(ne,[Default]), UsedName(notifyAll,[Default]), UsedName(getClass,[Default]), UsedName(equals,[Default]))) invalidates 2 classes due to The imperative.modular.OutputMovingStats has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(asInstanceOf,[Default]), UsedName(doOutput,[Default]), UsedName(finalize,[Default]), UsedName(OutputMovingStats,[Default]), UsedName(synchronized,[Default]), UsedName(notify,[Default]), UsedName(isInstanceOf,[Default]), UsedName(clone,[Default]), UsedName($init$,[Default]), UsedName(wait,[Default]), UsedName(==,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]), UsedName(##,[Default]), UsedName(hashCode,[Default]), UsedName(toString,[Default]), UsedName(ne,[Default]), UsedName(notifyAll,[Default]), UsedName(getClass,[Default]), UsedName(equals,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(imperative.modular.OutputMovingStats, imperative.modular.movingStatsModular)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from imperative.modular.movingStatsModular...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: imperative.modular.movingStatsModular[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(imperative.modular.movingStatsModular)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(imperative.modular.movingStatsModular,ModifiedNames(changes = UsedName(movingStatsModular,[Default]))) invalidates 1 classes due to The imperative.modular.movingStatsModular has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(movingStatsModular,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(imperative.modular.movingStatsModular)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m

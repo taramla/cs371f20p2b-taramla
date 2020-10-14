@@ -1,0 +1,8 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestLineCountFunctional:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe functional LineCounter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  when given an empty iterator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should produce an empty output[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  when given a nonempty iterator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should produce the correct nonempty output[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  when given a nonempty iterator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should exhibit the correct interactive behavior[0m[0m

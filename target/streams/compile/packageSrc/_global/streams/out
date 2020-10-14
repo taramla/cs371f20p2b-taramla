@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/tarala/IdeaProjects/iterators-scala/target/scala-2.13/iterators-scala_2.13-0.3-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	imperative/simple/CumulativeLengthImperative.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/simple/CumulativeLengthImperative.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	imperative/simple/LineCountImperative.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/simple/LineCountImperative.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	imperative/simple/CumAvgImperative.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/simple/CumAvgImperative.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	imperative/simple/TemperatureConversion.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/simple/TemperatureConversion.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	imperative/modular/common.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/common.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	imperative/modular/CumulativeLengthImperativeModular.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/CumulativeLengthImperativeModular.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	imperative/modular/LineCountImperativeModular.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/LineCountImperativeModular.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functional/simple/CumAvgFunctional.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/functional/simple/CumAvgFunctional.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functional/simple/LineCountFunctional.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/functional/simple/LineCountFunctional.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functional/simple/CumulativeLengthFunctional.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/functional/simple/CumulativeLengthFunctional.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functional/simple/TemperatureConversion.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/functional/simple/TemperatureConversion.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functional/simple/RecurringRainfallFunctional.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/functional/simple/RecurringRainfallFunctional.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functional/modular/LineCountFunctionalModular.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/functional/modular/LineCountFunctionalModular.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functional/modular/common.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/functional/modular/common.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functional/modular/CumulativeLengthFunctionalModular.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/tarala/IdeaProjects/iterators-scala/src/main/scala/functional/modular/CumulativeLengthFunctionalModular.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

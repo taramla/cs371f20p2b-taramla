@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/tarala/IdeaProjects/iterators-scala/project/target/.sbt-compilation-infos/iterators-scala-compile/.sbt-idea-lock ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/LineCountImperativeModular.scala:15:26: method + in class Double is deprecated (since 2.13.0): Adding a number and a String is deprecated. Use the string interpolation `s"$num$str"`[0m
+[0m[[0m[33mwarn[0m] [0m[0m    case Some(s) => s._1 + " " + s._2 + " " + s._3 + " " + s._4[0m
+[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/LineCountImperativeModular.scala:81:21: method + in class Double is deprecated (since 2.13.0): Adding a number and a String is deprecated. Use the string interpolation `s"$num$str"`[0m
+[0m[[0m[33mwarn[0m] [0m[0m    print(result._1 + " ")[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/tarala/IdeaProjects/iterators-scala/src/main/scala/imperative/modular/LineCountImperativeModular.scala:82:21: method + in class Int is deprecated (since 2.13.0): Adding a number and a String is deprecated. Use the string interpolation `s"$num$str"`[0m
+[0m[[0m[33mwarn[0m] [0m[0m    print(result._2 + " ")[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/tarala/IdeaProjects/iterators-scala/project/target/.sbt-compilation-infos/iterators-scala-compile/.sbt-idea-lock.[0m

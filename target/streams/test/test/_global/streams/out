@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(functional.modular.TestLineCountFunctional, org.scalatest.tools.Framework$$anon$1@2afd71e0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(functional.modular.BenchmarkCumulativeLengthFunctional, sbt.SubclassFingerprintWrapper@46601667, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(imperative.modular.TestLineCountImperative, org.scalatest.tools.Framework$$anon$1@2afd71e0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(imperative.modular.BenchmarkCumulativeLengthImperative, sbt.SubclassFingerprintWrapper@46601667, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(functional.modular.TestCumulativeLengthFunctional, org.scalatest.tools.Framework$$anon$1@2afd71e0, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mScalaTest[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 12 seconds, 569 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 8, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for ScalaMeter not available.[0m
+[0m[[0m[31merror[0m] [0m[0mError: Total 10, Failed 0, Errors 2, Passed 8[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functional.modular.TestLineCountFunctional[0m
+[0m[[0m[0mdebug[0m] [0m[0m	imperative.modular.TestLineCountImperative[0m
+[0m[[0m[0mdebug[0m] [0m[0m	functional.modular.TestCumulativeLengthFunctional[0m
+[0m[[0m[31merror[0m] [0m[0mError during tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	functional.modular.BenchmarkCumulativeLengthFunctional[0m
+[0m[[0m[31merror[0m] [0m[0m	imperative.modular.BenchmarkCumulativeLengthImperative[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
