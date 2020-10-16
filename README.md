@@ -1,7 +1,8 @@
 # Overview
 REATTEMPTED extra credit: standard deviation
 works for window sizes that are specified in Run>LineCountFunctionalModular>Program Arguments
- 
+
+profile screenshot in github repo, not in a folder!
 
 Examples of using Scala iterators to implement efficient Unix-style filters.
 
