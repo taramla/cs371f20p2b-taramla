@@ -40,7 +40,7 @@ rem "-J" is stripped, "-D" is left as is, and everything is appended to JAVA_OPT
 set _JAVA_PARAMS=
 set _APP_ARGS=
 
-set "APP_CLASSPATH=%APP_LIB_DIR%\default.iterators-scala-0.3.jar;%APP_LIB_DIR%\org.scala-lang.scala-library-2.13.3.jar"
+set "APP_CLASSPATH=%APP_LIB_DIR%\iterators-scala.iterators-scala-0.3.jar;%APP_LIB_DIR%\org.scala-lang.scala-library-2.13.3.jar"
 set "APP_MAIN_CLASS=functional.simple.TemperatureConversion"
 set "SCRIPT_CONF_FILE=%APP_HOME%\conf\application.ini"
 

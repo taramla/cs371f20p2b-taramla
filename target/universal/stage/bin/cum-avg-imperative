@@ -359,7 +359,7 @@ declare -r lib_dir="$(realpath "${app_home}/../lib")"
 declare -a app_mainclass=(imperative.simple.CumAvgImperative)
 
 declare -r script_conf_file="${app_home}/../conf/application.ini"
-declare -r app_classpath="$lib_dir/default.iterators-scala-0.3.jar:$lib_dir/org.scala-lang.scala-library-2.13.3.jar"
+declare -r app_classpath="$lib_dir/iterators-scala.iterators-scala-0.3.jar:$lib_dir/org.scala-lang.scala-library-2.13.3.jar"
 
 # java_cmd is overrode in process_args when -java-home is used
 declare java_cmd=$(get_java_cmd)

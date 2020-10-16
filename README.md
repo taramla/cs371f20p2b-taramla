@@ -1,5 +1,7 @@
 # Overview
-ATTEMPTED extra credit: standard deviation 
+REATTEMPTED extra credit: standard deviation
+works for window sizes that are specified in Run>LineCountFunctionalModular>Program Arguments
+ 
 
 Examples of using Scala iterators to implement efficient Unix-style filters.
 
